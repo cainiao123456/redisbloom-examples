@@ -3,8 +3,8 @@ package com.example.entity;
 import org.springframework.context.annotation.Bean;
 
 /**
- * @author 赵奇伟
- * @description 用户表
+ * @author qiwei zhao
+ * @description user table
  * @date 2020/8/20
  */
 public class User {
