@@ -12,7 +12,7 @@ import redis.clients.jedis.JedisPool;
 import redis.clients.jedis.JedisPoolConfig;
 
 /**
- * @author 赵奇伟
+ * @author qiwei zhao
  * @description
  * @date 2021/1/28
  */
